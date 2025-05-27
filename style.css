@@ -271,7 +271,7 @@ p {
 
 .grid-container {
 	background-color: #1e1e1e;
-	min-height: 500px;
+	min-height: 400px;
 	color: white;
 	display: grid;
 	grid-template-columns: 50% 50%;
